@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T23:20:59.519980",
+  "timestamp": "2026-01-23T19:19:42.424487",
   "symbols": [
     "MSFT",
     "AAPL",
@@ -592,124 +592,124 @@
     "table3_valuations": {
       "MSFT": {
         "symbol": "MSFT",
-        "price": 458.775,
-        "market_cap": 3410150817792,
-        "enterprise_value": 3432648540160,
-        "pe": 32.6298,
-        "pb": 9.393427,
+        "price": 451.14,
+        "market_cap": 3353398738944,
+        "enterprise_value": 3371405934592,
+        "pe": 32.041195,
+        "pb": 9.237101,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.79
+        "dividend_yield": 0.81
       },
       "AAPL": {
         "symbol": "AAPL",
-        "price": 260.245,
-        "market_cap": 3845471862784,
-        "enterprise_value": 3898940850176,
-        "pe": 34.885387,
-        "pb": 52.142853,
+        "price": 248.35,
+        "market_cap": 3669707194368,
+        "enterprise_value": 3727387262976,
+        "pe": 33.33557,
+        "pb": 49.759567,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.4
+        "dividend_yield": 0.42
       },
       "GOOGL": {
         "symbol": "GOOGL",
-        "price": 332.755,
-        "market_cap": 4030793252864,
-        "enterprise_value": 3998280318976,
-        "pe": 32.819527,
-        "pb": 10.388974,
+        "price": 330.54,
+        "market_cap": 4003540762624,
+        "enterprise_value": 3934325309440,
+        "pe": 32.694363,
+        "pb": 10.318734,
         "ps": null,
         "peg": null,
         "dividend_yield": 0.25
       },
       "AMZN": {
         "symbol": "AMZN",
-        "price": 237.15,
-        "market_cap": 2535184662528,
-        "enterprise_value": 2596080713728,
-        "pe": 33.49576,
-        "pb": 6.8566217,
+        "price": 234.34,
+        "market_cap": 2505145057280,
+        "enterprise_value": 2571386224640,
+        "pe": 33.09887,
+        "pb": 6.7753778,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "IBM": {
         "symbol": "IBM",
-        "price": 307.72,
-        "market_cap": 287636717568,
-        "enterprise_value": 340660224000,
-        "pe": 36.764637,
-        "pb": 10.307841,
+        "price": 294.67,
+        "market_cap": 275438436352,
+        "enterprise_value": 327237435392,
+        "pe": 35.079765,
+        "pb": 9.8707,
         "ps": null,
         "peg": null,
-        "dividend_yield": 2.17
+        "dividend_yield": 2.28
       },
       "ORCL": {
         "symbol": "ORCL",
-        "price": 192.395,
-        "market_cap": 552775843840,
-        "enterprise_value": 668736684032,
-        "pe": 36.164474,
-        "pb": 18.455156,
+        "price": 178.18,
+        "market_cap": 511934267392,
+        "enterprise_value": 624404332544,
+        "pe": 33.42964,
+        "pb": 17.091606,
         "ps": null,
         "peg": null,
-        "dividend_yield": 1.03
+        "dividend_yield": 1.12
       },
       "CRM": {
         "symbol": "CRM",
-        "price": 236.015,
-        "market_cap": 224686276608,
-        "enterprise_value": 224789086208,
-        "pe": 31.468666,
-        "pb": 3.7041135,
+        "price": 228.09,
+        "market_cap": 217141673984,
+        "enterprise_value": 214032334848,
+        "pe": 30.493315,
+        "pb": 3.5797353,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.69
+        "dividend_yield": 0.73
       },
       "ADBE": {
         "symbol": "ADBE",
-        "price": 303.2285,
-        "market_cap": 128629522432,
-        "enterprise_value": 127004483584,
-        "pe": 18.146528,
-        "pb": 10.878933,
+        "price": 299.73,
+        "market_cap": 125466984448,
+        "enterprise_value": 123098161152,
+        "pe": 17.958658,
+        "pb": 10.650251,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "INTC": {
         "symbol": "INTC",
-        "price": 48.475,
-        "market_cap": 231225737216,
-        "enterprise_value": 258366406656,
-        "pe": 807.9167,
-        "pb": 2.171819,
+        "price": 54.32,
+        "market_cap": 259106390016,
+        "enterprise_value": 285078388736,
+        "pe": null,
+        "pb": 2.4336917,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "CSCO": {
         "symbol": "CSCO",
-        "price": 75.49,
-        "market_cap": 298268131328,
-        "enterprise_value": 307901956096,
-        "pe": 29.146719,
-        "pb": 6.3420987,
+        "price": 74.33,
+        "market_cap": 293684871168,
+        "enterprise_value": 307585843200,
+        "pe": 28.698843,
+        "pb": 6.2446446,
         "ps": null,
         "peg": null,
-        "dividend_yield": 2.2
+        "dividend_yield": 2.21
       },
       "SAP": {
         "symbol": "SAP",
-        "price": 236.52,
-        "market_cap": 275970195456,
-        "enterprise_value": 277677309952,
-        "pe": 33.692307,
-        "pb": 5.524234,
+        "price": 226.35,
+        "market_cap": 264103919616,
+        "enterprise_value": 263092404224,
+        "pe": 32.15199,
+        "pb": 5.2731576,
         "ps": null,
         "peg": null,
-        "dividend_yield": 1.1
+        "dividend_yield": 1.16
       }
     }
   },
@@ -739,7 +739,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "79.00%",
+          "value": "81.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -777,7 +777,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "40.00%",
+          "value": "42.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -885,7 +885,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "217.00%",
+          "value": "228.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -917,7 +917,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "103.00%",
+          "value": "112.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -955,7 +955,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "69.00%",
+          "value": "73.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -970,8 +970,8 @@
     },
     "ADBE": {
       "symbol": "ADBE",
-      "score": 50,
-      "rating": "Fair",
+      "score": 65,
+      "rating": "Good",
       "factors": [
         {
           "name": "Exceptional ROE",
@@ -981,9 +981,15 @@
         },
         {
           "name": "High Leverage",
-          "value": "57.20",
+          "value": "57.27",
           "score": 5,
           "detail": "Risk consideration needed"
+        },
+        {
+          "name": "Strong FCF Generation",
+          "value": "$8.8B",
+          "score": 15,
+          "detail": "Robust cash production"
         },
         {
           "name": "High Profitability",
@@ -992,7 +998,7 @@
           "detail": "Strong pricing power"
         }
       ],
-      "summary": "ADBE shows fair management quality with focus on Exceptional ROE"
+      "summary": "ADBE shows good management quality with focus on Exceptional ROE"
     },
     "INTC": {
       "symbol": "INTC",
@@ -1033,7 +1039,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "220.00%",
+          "value": "221.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -1071,7 +1077,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "110.00%",
+          "value": "116.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -1092,31 +1098,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1128,31 +1134,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1164,31 +1170,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1200,31 +1206,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1236,31 +1242,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1272,31 +1278,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1308,31 +1314,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1344,31 +1350,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1380,31 +1386,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1416,31 +1422,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1452,31 +1458,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-05",
+          "date": "2026-01-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2025-12-31",
+          "date": "2026-01-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2025-12-26",
+          "date": "2026-01-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-16",
+          "date": "2025-12-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-01",
+          "date": "2025-12-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],

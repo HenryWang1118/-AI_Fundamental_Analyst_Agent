@@ -1,7 +1,0 @@
-{
-  "timestamp": "20260115_232223",
-  "symbol": "MSFT",
-  "model": "qwen3-max",
-  "provider": "none",
-  "temperature": 0.3,
-  "prompt": 

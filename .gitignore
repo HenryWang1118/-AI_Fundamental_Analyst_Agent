@@ -45,10 +45,10 @@ wheels/
 Thumbs.db
 
 # Data files (adjusted as needed)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# data/raw/*
+# !data/raw/.gitkeep
+# data/processed/*
+# !data/processed/.gitkeep
 
 # Reports
 reports/*.pdf
