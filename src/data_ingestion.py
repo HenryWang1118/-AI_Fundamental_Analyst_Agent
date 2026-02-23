@@ -22,7 +22,10 @@ from datetime import datetime
 from .config import Config
 
 # Default peer list for multi-company ingestion (all 11 companies including MSFT)
-PEER_SYMBOLS = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL", "CRM", "ADBE", "INTC", "CSCO", "SAP"]
+# Reduced list for demo to avoid rate limits (using top 5 peers + MSFT)
+PEER_SYMBOLS = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL"]
+# PEER_SYMBOLS = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL", "CRM", "ADBE"]
+
 
 
 # -------------------------------
@@ -162,7 +165,6 @@ def run_ingestion_pipeline(symbol=None, verbose=True, force_refresh=False):
             Config.validate_keys(verbose=True)
             Config.create_directories(verbose=True)
         else:
-            # 静默模式：仍然验证和创建，但不打印
             if not Config.ALPHA_VANTAGE_KEY:
                 raise ValueError("Missing ALPHA_VANTAGE_API_KEY")
             os.makedirs(Config.DATA_PROCESSED_DIR, exist_ok=True)

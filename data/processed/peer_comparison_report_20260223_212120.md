@@ -1,7 +1,7 @@
 # 🔍 Peer Comparison Analysis Report
 
 
-**Generated**: 2026-01-23T19:19:42.424487
+**Generated**: 2026-02-23T21:21:20.018221
 
 
 **Target Company**: MSFT
@@ -42,17 +42,17 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
-| gross_margin | 69.76% | 46.21% | 58.20% | 48.85% | 56.65% | 71.41% | 75.50% | 89.04% | 32.66% | 64.73% | 72.95% | 5/5 (Top 55%) |
+| gross_margin | 69.76% | 46.21% | 58.20% | 48.85% | 56.65% | 71.41% | N/A | N/A | N/A | N/A | N/A | 2/5 (Top 67%) |
 
-| operating_margin | 44.64% | 31.51% | 32.11% | 10.75% | 16.05% | 28.99% | 14.38% | 31.35% | -21.99% | 22.64% | 13.65% | 1/5 (Top 91%) |
+| operating_margin | 44.64% | 31.51% | 32.11% | 10.75% | 16.05% | 28.99% | N/A | N/A | N/A | N/A | N/A | 1/5 (Top 83%) |
 
-| roe | 32.83 | 164.59 | 30.80 | 20.72 | 22.06 | 120.26 | 6.93 | 39.42 | -18.89 | 22.70 | 6.88 | 4/5 (Top 64%) |
+| roe | 32.83 | 164.59 | 30.80 | 20.72 | 22.06 | 120.26 | N/A | N/A | N/A | N/A | N/A | 3/5 (Top 50%) |
 
-| debt_to_equity | 0.91 | 5.41 | 0.39 | 1.19 | 4.02 | 15.14 | 0.67 | 1.14 | 0.92 | 1.74 | 0.62 | 4/5 (Top 64%) |
+| debt_to_equity | 0.91 | 5.41 | 0.39 | 1.19 | 4.02 | 15.14 | N/A | N/A | N/A | N/A | N/A | 2/5 (Top 67%) |
 
-| current_ratio | 1.27x | 0.87x | 1.84x | 1.06x | 1.04x | 0.72x | 1.09x | 1.07x | 1.33x | 0.91x | 1.12x | 3/5 (Top 73%) |
+| current_ratio | 1.27x | 0.87x | 1.84x | 1.06x | 1.04x | 0.72x | N/A | N/A | N/A | N/A | N/A | 2/5 (Top 67%) |
 
-| free_cash_flow | $163.0B | $127.7B | $177.8B | $198.9B | $15.1B | $25.5B | $11.0B | $8.3B | $32.2B | $11.6B | $6.0B | 3/5 (Top 73%) |
+| free_cash_flow | $163.0B | $127.7B | $177.8B | $198.9B | $15.1B | $25.5B | N/A | N/A | N/A | N/A | N/A | 3/5 (Top 50%) |
 
 
 **Key Insights**:
@@ -71,13 +71,13 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
-| gross_margin | 1.2% | 4.7% | 2.8% | 4.0% | 2.2% | -2.0% | 3.0% | 1.3% | -18.4% | 3.2% | 1.0% | 8/5 (Top 27%) |
+| gross_margin | 1.2% | 4.7% | 2.8% | 4.0% | 2.2% | -2.0% | N/A | N/A | N/A | N/A | N/A | 5/5 (Top 17%) |
 
-| operating_margin | 6.9% | 5.7% | 17.1% | 67.7% | 32.2% | 10.6% | 54.1% | -8.5% | -12923.5% | -14.2% | -26.5% | 6/5 (Top 45%) |
+| operating_margin | 6.9% | 5.7% | 17.1% | 67.7% | 32.2% | 10.6% | N/A | N/A | N/A | N/A | N/A | 5/5 (Top 17%) |
 
-| roe | -6.4% | 5.5% | 18.3% | 37.5% | -33.8% | -84.8% | 1845.6% | 20.0% | -1281.2% | -20.2% | -51.7% | 6/5 (Top 45%) |
+| roe | -6.4% | 5.5% | 18.3% | 37.5% | -33.8% | -84.8% | N/A | N/A | N/A | N/A | N/A | 4/5 (Top 33%) |
 
-| free_cash_flow | 40.9% | 5.1% | 32.7% | 44.5% | -1.4% | -1.2% | 38.7% | 8.2% | -13.4% | -44.3% | -15.5% | 2/5 (Top 82%) |
+| free_cash_flow | 40.9% | 5.1% | 32.7% | 44.5% | -1.4% | -1.2% | N/A | N/A | N/A | N/A | N/A | 2/5 (Top 67%) |
 
 
 
@@ -88,13 +88,13 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
-| P/E (TTM) | 32.0x | 33.3x | 32.7x | 33.1x | 35.1x | 33.4x | 30.5x | 18.0x | N/A | 28.7x | 32.2x |
+| P/E (TTM) | 24.9x | 33.4x | 29.2x | 29.3x | 23.1x | 27.8x | 24.7x | 15.5x | N/A | 28.5x | 27.3x |
 
-| P/B | 9.24x | 49.76x | 10.32x | 6.78x | 9.87x | 17.09x | 3.58x | 10.65x | 2.43x | 6.24x | 5.27x |
+| P/B | 7.55x | 44.11x | 9.17x | 5.49x | 7.38x | 14.20x | 2.91x | 9.19x | 1.93x | 6.55x | 4.48x |
 
 | P/S | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
-| Dividend Yield | 81.00% | 42.00% | 25.00% | 0.00% | 228.00% | 112.00% | 73.00% | 0.00% | 0.00% | 221.00% | 116.00% |
+| Dividend Yield | 92.00% | 39.00% | 27.00% | 0.00% | 261.00% | 135.00% | 90.00% | 0.00% | 0.00% | 212.00% | 146.00% |
 
 
 **Valuation Analysis**:
@@ -123,35 +123,35 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 
 **1. Exceptional ROE** (+25 pts)
 
-   - Metric: 32.2%
+   - Metric: 34.4%
 
    - Analysis: Capital deployment excellence
 
 
 **2. High Leverage** (+5 pts)
 
-   - Metric: 33.15
+   - Metric: 31.54
 
    - Analysis: Risk consideration needed
 
 
 **3. Strong FCF Generation** (+15 pts)
 
-   - Metric: $53.3B
+   - Metric: $53.6B
 
    - Analysis: Robust cash production
 
 
 **4. Strong Dividend** (+10 pts)
 
-   - Metric: 81.00%
+   - Metric: 92.00%
 
    - Analysis: Attractive shareholder returns
 
 
 **5. High Profitability** (+20 pts)
 
-   - Metric: 68.8%
+   - Metric: 68.6%
 
    - Analysis: Strong pricing power
 
@@ -177,7 +177,7 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 **1. Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure**
 
 
-   - Date: 2026-01-13
+   - Date: 2026-02-13
 
    - Source: Press Release / CNBC
 
@@ -188,7 +188,7 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 **1. Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase**
 
 
-   - Date: 2026-01-08
+   - Date: 2026-02-08
 
    - Source: SEC Disclosure / The Wall Street Journal
 
@@ -199,7 +199,7 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 **1. Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio**
 
 
-   - Date: 2026-01-03
+   - Date: 2026-02-03
 
    - Source: Microsoft Leadership / Reuters
 
@@ -210,7 +210,7 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 **1. Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates**
 
 
-   - Date: 2025-12-24
+   - Date: 2026-01-24
 
    - Source: SEC Filings / Bloomberg
 
@@ -221,7 +221,7 @@ This report provides a deep comparative analysis of Microsoft Corporation agains
 **1. Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration**
 
 
-   - Date: 2025-12-09
+   - Date: 2026-01-09
 
    - Source: Microsoft News Center / TechCrunch
 

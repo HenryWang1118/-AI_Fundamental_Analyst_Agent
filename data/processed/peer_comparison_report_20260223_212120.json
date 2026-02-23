@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T19:19:42.424487",
+  "timestamp": "2026-02-23T21:21:20.018221",
   "symbols": [
     "MSFT",
     "AAPL",
@@ -14,62 +14,37 @@
     "SAP"
   ],
   "financial_comparison": {
-    "latest_year": 2024,
+    "latest_year": "2024",
     "table1_ratios": {
       "gross_margin": {
-        "ADBE": [
-          89.04,
-          1,
-          9.090909090909092
-        ],
-        "CRM": [
-          75.5,
-          2,
-          18.181818181818183
-        ],
-        "SAP": [
-          72.95,
-          3,
-          27.27272727272727
-        ],
         "ORCL": [
           71.41,
-          4,
-          36.36363636363637
+          1,
+          16.666666666666664
         ],
         "MSFT": [
           69.76,
-          5,
-          45.45454545454545
-        ],
-        "CSCO": [
-          64.73,
-          6,
-          54.54545454545454
+          2,
+          33.33333333333333
         ],
         "GOOGL": [
           58.2,
-          7,
-          63.63636363636363
+          3,
+          50.0
         ],
         "IBM": [
           56.65,
-          8,
-          72.72727272727273
+          4,
+          66.66666666666666
         ],
         "AMZN": [
           48.85,
-          9,
-          81.81818181818183
+          5,
+          83.33333333333334
         ],
         "AAPL": [
           46.21,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          32.66,
-          11,
+          6,
           100.0
         ]
       },
@@ -77,56 +52,31 @@
         "MSFT": [
           44.64,
           1,
-          9.090909090909092
+          16.666666666666664
         ],
         "GOOGL": [
           32.11,
           2,
-          18.181818181818183
+          33.33333333333333
         ],
         "AAPL": [
           31.51,
           3,
-          27.27272727272727
-        ],
-        "ADBE": [
-          31.35,
-          4,
-          36.36363636363637
+          50.0
         ],
         "ORCL": [
           28.99,
-          5,
-          45.45454545454545
-        ],
-        "CSCO": [
-          22.64,
-          6,
-          54.54545454545454
+          4,
+          66.66666666666666
         ],
         "IBM": [
           16.05,
-          7,
-          63.63636363636363
-        ],
-        "CRM": [
-          14.38,
-          8,
-          72.72727272727273
-        ],
-        "SAP": [
-          13.65,
-          9,
-          81.81818181818183
+          5,
+          83.33333333333334
         ],
         "AMZN": [
           10.75,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          -21.99,
-          11,
+          6,
           100.0
         ]
       },
@@ -134,56 +84,31 @@
         "AAPL": [
           164.59,
           1,
-          9.090909090909092
+          16.666666666666664
         ],
         "ORCL": [
           120.26,
           2,
-          18.181818181818183
-        ],
-        "ADBE": [
-          39.42,
-          3,
-          27.27272727272727
+          33.33333333333333
         ],
         "MSFT": [
           32.83,
-          4,
-          36.36363636363637
+          3,
+          50.0
         ],
         "GOOGL": [
           30.8,
-          5,
-          45.45454545454545
-        ],
-        "CSCO": [
-          22.7,
-          6,
-          54.54545454545454
+          4,
+          66.66666666666666
         ],
         "IBM": [
           22.06,
-          7,
-          63.63636363636363
+          5,
+          83.33333333333334
         ],
         "AMZN": [
           20.72,
-          8,
-          72.72727272727273
-        ],
-        "CRM": [
-          6.93,
-          9,
-          81.81818181818183
-        ],
-        "SAP": [
-          6.88,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          -18.89,
-          11,
+          6,
           100.0
         ]
       },
@@ -191,56 +116,31 @@
         "GOOGL": [
           0.39,
           1,
-          9.090909090909092
-        ],
-        "SAP": [
-          0.62,
-          2,
-          18.181818181818183
-        ],
-        "CRM": [
-          0.67,
-          3,
-          27.27272727272727
+          16.666666666666664
         ],
         "MSFT": [
           0.91,
-          4,
-          36.36363636363637
-        ],
-        "INTC": [
-          0.92,
-          5,
-          45.45454545454545
-        ],
-        "ADBE": [
-          1.14,
-          6,
-          54.54545454545454
+          2,
+          33.33333333333333
         ],
         "AMZN": [
           1.19,
-          7,
-          63.63636363636363
-        ],
-        "CSCO": [
-          1.74,
-          8,
-          72.72727272727273
+          3,
+          50.0
         ],
         "IBM": [
           4.02,
-          9,
-          81.81818181818183
+          4,
+          66.66666666666666
         ],
         "AAPL": [
           5.41,
-          10,
-          90.9090909090909
+          5,
+          83.33333333333334
         ],
         "ORCL": [
           15.14,
-          11,
+          6,
           100.0
         ]
       },
@@ -248,56 +148,31 @@
         "GOOGL": [
           1.84,
           1,
-          9.090909090909092
-        ],
-        "INTC": [
-          1.33,
-          2,
-          18.181818181818183
+          16.666666666666664
         ],
         "MSFT": [
           1.27,
-          3,
-          27.27272727272727
-        ],
-        "SAP": [
-          1.12,
-          4,
-          36.36363636363637
-        ],
-        "CRM": [
-          1.09,
-          5,
-          45.45454545454545
-        ],
-        "ADBE": [
-          1.07,
-          6,
-          54.54545454545454
+          2,
+          33.33333333333333
         ],
         "AMZN": [
           1.06,
-          7,
-          63.63636363636363
+          3,
+          50.0
         ],
         "IBM": [
           1.04,
-          8,
-          72.72727272727273
-        ],
-        "CSCO": [
-          0.91,
-          9,
-          81.81818181818183
+          4,
+          66.66666666666666
         ],
         "AAPL": [
           0.87,
-          10,
-          90.9090909090909
+          5,
+          83.33333333333334
         ],
         "ORCL": [
           0.72,
-          11,
+          6,
           100.0
         ]
       },
@@ -305,56 +180,31 @@
         "AMZN": [
           198876000000,
           1,
-          9.090909090909092
+          16.666666666666664
         ],
         "GOOGL": [
           177834000000,
           2,
-          18.181818181818183
+          33.33333333333333
         ],
         "MSFT": [
           163025000000,
           3,
-          27.27272727272727
+          50.0
         ],
         "AAPL": [
           127701000000,
           4,
-          36.36363636363637
-        ],
-        "INTC": [
-          32232000000,
-          5,
-          45.45454545454545
+          66.66666666666666
         ],
         "ORCL": [
           25539000000,
-          6,
-          54.54545454545454
+          5,
+          83.33333333333334
         ],
         "IBM": [
           15130000000,
-          7,
-          63.63636363636363
-        ],
-        "CSCO": [
-          11550000000,
-          8,
-          72.72727272727273
-        ],
-        "CRM": [
-          10970000000,
-          9,
-          81.81818181818183
-        ],
-        "ADBE": [
-          8288000000,
-          10,
-          90.9090909090909
-        ],
-        "SAP": [
-          6017000000,
-          11,
+          6,
           100.0
         ]
       }
@@ -364,56 +214,31 @@
         "AAPL": [
           4.7,
           1,
-          9.090909090909092
+          16.666666666666664
         ],
         "AMZN": [
           3.99,
           2,
-          18.181818181818183
-        ],
-        "CSCO": [
-          3.2,
-          3,
-          27.27272727272727
-        ],
-        "CRM": [
-          2.95,
-          4,
-          36.36363636363637
+          33.33333333333333
         ],
         "GOOGL": [
           2.78,
-          5,
-          45.45454545454545
+          3,
+          50.0
         ],
         "IBM": [
           2.17,
-          6,
-          54.54545454545454
-        ],
-        "ADBE": [
-          1.32,
-          7,
-          63.63636363636363
+          4,
+          66.66666666666666
         ],
         "MSFT": [
           1.23,
-          8,
-          72.72727272727273
-        ],
-        "SAP": [
-          1.03,
-          9,
-          81.81818181818183
+          5,
+          83.33333333333334
         ],
         "ORCL": [
           -1.98,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          -18.41,
-          11,
+          6,
           100.0
         ]
       },
@@ -421,113 +246,63 @@
         "AMZN": [
           67.7,
           1,
-          9.090909090909092
-        ],
-        "CRM": [
-          54.09,
-          2,
-          18.181818181818183
+          16.666666666666664
         ],
         "IBM": [
           32.16,
-          3,
-          27.27272727272727
+          2,
+          33.33333333333333
         ],
         "GOOGL": [
           17.1,
-          4,
-          36.36363636363637
+          3,
+          50.0
         ],
         "ORCL": [
           10.6,
-          5,
-          45.45454545454545
+          4,
+          66.66666666666666
         ],
         "MSFT": [
           6.87,
-          6,
-          54.54545454545454
+          5,
+          83.33333333333334
         ],
         "AAPL": [
           5.66,
-          7,
-          63.63636363636363
-        ],
-        "ADBE": [
-          -8.51,
-          8,
-          72.72727272727273
-        ],
-        "CSCO": [
-          -14.15,
-          9,
-          81.81818181818183
-        ],
-        "SAP": [
-          -26.54,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          -12923.5,
-          11,
+          6,
           100.0
         ]
       },
       "roe": {
-        "CRM": [
-          1845.56,
-          1,
-          9.090909090909092
-        ],
         "AMZN": [
           37.47,
-          2,
-          18.181818181818183
-        ],
-        "ADBE": [
-          19.96,
-          3,
-          27.27272727272727
+          1,
+          16.666666666666664
         ],
         "GOOGL": [
           18.27,
-          4,
-          36.36363636363637
+          2,
+          33.33333333333333
         ],
         "AAPL": [
           5.46,
-          5,
-          45.45454545454545
+          3,
+          50.0
         ],
         "MSFT": [
           -6.44,
-          6,
-          54.54545454545454
-        ],
-        "CSCO": [
-          -20.17,
-          7,
-          63.63636363636363
+          4,
+          66.66666666666666
         ],
         "IBM": [
           -33.75,
-          8,
-          72.72727272727273
-        ],
-        "SAP": [
-          -51.67,
-          9,
-          81.81818181818183
+          5,
+          83.33333333333334
         ],
         "ORCL": [
           -84.82,
-          10,
-          90.9090909090909
-        ],
-        "INTC": [
-          -1281.18,
-          11,
+          6,
           100.0
         ]
       },
@@ -535,56 +310,31 @@
         "AMZN": [
           44.45,
           1,
-          9.090909090909092
+          16.666666666666664
         ],
         "MSFT": [
           40.92,
           2,
-          18.181818181818183
-        ],
-        "CRM": [
-          38.7,
-          3,
-          27.27272727272727
+          33.33333333333333
         ],
         "GOOGL": [
           32.71,
-          4,
-          36.36363636363637
-        ],
-        "ADBE": [
-          8.17,
-          5,
-          45.45454545454545
+          3,
+          50.0
         ],
         "AAPL": [
           5.1,
-          6,
-          54.54545454545454
+          4,
+          66.66666666666666
         ],
         "ORCL": [
           -1.24,
-          7,
-          63.63636363636363
+          5,
+          83.33333333333334
         ],
         "IBM": [
           -1.43,
-          8,
-          72.72727272727273
-        ],
-        "INTC": [
-          -13.4,
-          9,
-          81.81818181818183
-        ],
-        "SAP": [
-          -15.46,
-          10,
-          90.9090909090909
-        ],
-        "CSCO": [
-          -44.3,
-          11,
+          6,
           100.0
         ]
       }
@@ -592,124 +342,124 @@
     "table3_valuations": {
       "MSFT": {
         "symbol": "MSFT",
-        "price": 451.14,
-        "market_cap": 3353398738944,
-        "enterprise_value": 3371405934592,
-        "pe": 32.041195,
-        "pb": 9.237101,
+        "price": 397.23,
+        "market_cap": 2952363507712,
+        "enterprise_value": 2983498612736,
+        "pe": 24.873512,
+        "pb": 7.549748,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.81
+        "dividend_yield": 0.92
       },
       "AAPL": {
         "symbol": "AAPL",
-        "price": 248.35,
-        "market_cap": 3669707194368,
-        "enterprise_value": 3727387262976,
-        "pe": 33.33557,
-        "pb": 49.759567,
+        "price": 264.58,
+        "market_cap": 3888777003008,
+        "enterprise_value": 3907937894400,
+        "pe": 33.4488,
+        "pb": 44.111366,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.42
+        "dividend_yield": 0.39
       },
       "GOOGL": {
         "symbol": "GOOGL",
-        "price": 330.54,
-        "market_cap": 4003540762624,
-        "enterprise_value": 3934325309440,
-        "pe": 32.694363,
-        "pb": 10.318734,
+        "price": 314.98,
+        "market_cap": 3810313371648,
+        "enterprise_value": 3750466158592,
+        "pe": 29.164816,
+        "pb": 9.168922,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.25
+        "dividend_yield": 0.27
       },
       "AMZN": {
         "symbol": "AMZN",
-        "price": 234.34,
-        "market_cap": 2505145057280,
-        "enterprise_value": 2571386224640,
-        "pe": 33.09887,
-        "pb": 6.7753778,
+        "price": 210.11,
+        "market_cap": 2255514238976,
+        "enterprise_value": 2311032143872,
+        "pe": 29.344973,
+        "pb": 5.4850416,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "IBM": {
         "symbol": "IBM",
-        "price": 294.67,
-        "market_cap": 275438436352,
-        "enterprise_value": 327237435392,
-        "pe": 35.079765,
-        "pb": 9.8707,
+        "price": 257.16,
+        "market_cap": 240376512512,
+        "enterprise_value": 291113336832,
+        "pe": 23.084381,
+        "pb": 7.3765135,
         "ps": null,
         "peg": null,
-        "dividend_yield": 2.28
+        "dividend_yield": 2.61
       },
       "ORCL": {
         "symbol": "ORCL",
-        "price": 178.18,
-        "market_cap": 511934267392,
-        "enterprise_value": 624404332544,
-        "pe": 33.42964,
-        "pb": 17.091606,
+        "price": 148.08,
+        "market_cap": 425595404288,
+        "enterprise_value": 537923092480,
+        "pe": 27.834585,
+        "pb": 14.204316,
         "ps": null,
         "peg": null,
-        "dividend_yield": 1.12
+        "dividend_yield": 1.35
       },
       "CRM": {
         "symbol": "CRM",
-        "price": 228.09,
-        "market_cap": 217141673984,
-        "enterprise_value": 214032334848,
-        "pe": 30.493315,
-        "pb": 3.5797353,
+        "price": 185.16,
+        "market_cap": 176272326656,
+        "enterprise_value": 173806927872,
+        "pe": 24.688,
+        "pb": 2.9059749,
         "ps": null,
         "peg": null,
-        "dividend_yield": 0.73
+        "dividend_yield": 0.9
       },
       "ADBE": {
         "symbol": "ADBE",
-        "price": 299.73,
-        "market_cap": 125466984448,
-        "enterprise_value": 123098161152,
-        "pe": 17.958658,
-        "pb": 10.650251,
+        "price": 258.61,
+        "market_cap": 108254142464,
+        "enterprise_value": 106218405888,
+        "pe": 15.476361,
+        "pb": 9.18914,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "INTC": {
         "symbol": "INTC",
-        "price": 54.32,
-        "market_cap": 259106390016,
-        "enterprise_value": 285078388736,
+        "price": 44.11,
+        "market_cap": 220337324032,
+        "enterprise_value": 242101452800,
         "pe": null,
-        "pb": 2.4336917,
+        "pb": 1.9275476,
         "ps": null,
         "peg": null,
         "dividend_yield": null
       },
       "CSCO": {
         "symbol": "CSCO",
-        "price": 74.33,
-        "market_cap": 293684871168,
-        "enterprise_value": 307585843200,
-        "pe": 28.698843,
-        "pb": 6.2446446,
+        "price": 79.2,
+        "market_cap": 312926666752,
+        "enterprise_value": 328794537984,
+        "pe": 28.489208,
+        "pb": 6.5535784,
         "ps": null,
         "peg": null,
-        "dividend_yield": 2.21
+        "dividend_yield": 2.12
       },
       "SAP": {
         "symbol": "SAP",
-        "price": 226.35,
-        "market_cap": 264103919616,
-        "enterprise_value": 263092404224,
-        "pe": 32.15199,
-        "pb": 5.2731576,
+        "price": 202.59,
+        "market_cap": 236380864512,
+        "enterprise_value": 235006935040,
+        "pe": 27.34008,
+        "pb": 4.4808087,
         "ps": null,
         "peg": null,
-        "dividend_yield": 1.16
+        "dividend_yield": 1.46
       }
     }
   },
@@ -721,31 +471,31 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "32.2%",
+          "value": "34.4%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "33.15",
+          "value": "31.54",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$53.3B",
+          "value": "$53.6B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "81.00%",
+          "value": "92.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
         {
           "name": "High Profitability",
-          "value": "68.8%",
+          "value": "68.6%",
           "score": 20,
           "detail": "Strong pricing power"
         }
@@ -759,31 +509,31 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "171.4%",
+          "value": "152.0%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "152.41",
+          "value": "102.63",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$78.9B",
+          "value": "$106.3B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "42.00%",
+          "value": "39.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
         {
           "name": "High Profitability",
-          "value": "46.9%",
+          "value": "47.3%",
           "score": 20,
           "detail": "Strong pricing power"
         }
@@ -797,31 +547,31 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "35.4%",
+          "value": "35.7%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "11.42",
+          "value": "16.13",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$48.0B",
+          "value": "$38.1B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "25.00%",
+          "value": "27.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
         {
           "name": "High Profitability",
-          "value": "59.2%",
+          "value": "59.7%",
           "score": 20,
           "detail": "Strong pricing power"
         }
@@ -835,25 +585,25 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "24.3%",
+          "value": "22.3%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "43.41",
+          "value": "43.44",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$26.1B",
+          "value": "$23.8B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "High Profitability",
-          "value": "50.0%",
+          "value": "50.3%",
           "score": 20,
           "detail": "Strong pricing power"
         }
@@ -867,31 +617,31 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "30.2%",
+          "value": "35.2%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "237.83",
+          "value": "197.33",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$11.8B",
+          "value": "$12.8B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "228.00%",
+          "value": "261.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
         {
           "name": "High Profitability",
-          "value": "57.8%",
+          "value": "58.2%",
           "score": 20,
           "detail": "Strong pricing power"
         }
@@ -917,7 +667,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "112.00%",
+          "value": "135.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -955,7 +705,7 @@
         },
         {
           "name": "Strong Dividend",
-          "value": "73.00%",
+          "value": "90.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -1007,7 +757,7 @@
       "factors": [
         {
           "name": "High Leverage",
-          "value": "39.88",
+          "value": "37.28",
           "score": 5,
           "detail": "Risk consideration needed"
         }
@@ -1021,25 +771,25 @@
       "factors": [
         {
           "name": "Exceptional ROE",
-          "value": "22.4%",
+          "value": "23.8%",
           "score": 25,
           "detail": "Capital deployment excellence"
         },
         {
           "name": "High Leverage",
-          "value": "63.23",
+          "value": "66.51",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$12.4B",
+          "value": "$10.1B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "221.00%",
+          "value": "212.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -1059,25 +809,25 @@
       "factors": [
         {
           "name": "High ROE",
-          "value": "17.0%",
+          "value": "16.5%",
           "score": 20,
           "detail": "Strong capital efficiency"
         },
         {
           "name": "High Leverage",
-          "value": "21.09",
+          "value": "17.84",
           "score": 5,
           "detail": "Risk consideration needed"
         },
         {
           "name": "Strong FCF Generation",
-          "value": "$7.0B",
+          "value": "$7.8B",
           "score": 15,
           "detail": "Robust cash production"
         },
         {
           "name": "Strong Dividend",
-          "value": "116.00%",
+          "value": "146.00%",
           "score": 10,
           "detail": "Attractive shareholder returns"
         },
@@ -1098,31 +848,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1134,31 +884,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1170,31 +920,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1206,31 +956,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1242,31 +992,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1278,31 +1028,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1314,31 +1064,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1350,31 +1100,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1386,31 +1136,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1422,31 +1172,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],
@@ -1458,31 +1208,31 @@
         {
           "type": "Strategic Partnership",
           "title": "Microsoft and OpenAI Deepen Partnership with $10B Investment for AI Infrastructure",
-          "date": "2026-01-13",
+          "date": "2026-02-13",
           "source": "Press Release / CNBC"
         },
         {
           "type": "Capital Allocation",
           "title": "Microsoft Board Approves $60 Billion Share Buyback Program and Dividend Increase",
-          "date": "2026-01-08",
+          "date": "2026-02-08",
           "source": "SEC Disclosure / The Wall Street Journal"
         },
         {
           "type": "Management News",
           "title": "Satya Nadella Announces Major AI Strategy Expansion Across Product Portfolio",
-          "date": "2026-01-03",
+          "date": "2026-02-03",
           "source": "Microsoft Leadership / Reuters"
         },
         {
           "type": "Earnings Report",
           "title": "Microsoft Q4 2024 Earnings: Cloud Revenue Surges 30% YoY, AI Adoption Accelerates",
-          "date": "2025-12-24",
+          "date": "2026-01-24",
           "source": "SEC Filings / Bloomberg"
         },
         {
           "type": "Product Launch",
           "title": "Microsoft Unveils Next-Generation Azure AI Services with Enhanced GPT-4 Integration",
-          "date": "2025-12-09",
+          "date": "2026-01-09",
           "source": "Microsoft News Center / TechCrunch"
         }
       ],

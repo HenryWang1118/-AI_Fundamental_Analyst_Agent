@@ -700,7 +700,7 @@ def save_pe_implied(result: dict, symbol: str, force_refresh: bool = True) -> Op
 def generate_peer_comparison_report(symbols: Optional[List[str]] = None, verbose: bool = True) -> Dict:
     """Generate comprehensive peer comparison with financial ratios, management, catalysts."""
     if symbols is None:
-        symbols = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL", "CRM", "ADBE", "INTC", "CSCO", "SAP"]
+        symbols = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL"]
     
     if verbose:
         print(f"\n{'='*60}")
@@ -747,11 +747,8 @@ def run_peer_analysis(symbol: Optional[str] = None, peers: Optional[List[str]] =
             "AMZN",    # Amazon - AWS cloud computing
             "IBM",     # IBM - enterprise software, consulting
             "ORCL",    # Oracle - database, cloud infrastructure
-            "CRM",     # Salesforce - CRM, cloud applications
-            "ADBE",    # Adobe - creative software, digital media
-            "INTC",    # Intel - semiconductors, data center
-            "CSCO",    # Cisco - networking, security
-            "SAP",     # SAP - enterprise software, ERP
+            # "CRM",     # Salesforce - CRM, cloud applications
+            # "ADBE",    # Adobe - creative software, digital media
         ]
     df = build_peer_table(symbol, peers)
     path = save_peer_table(df, symbol, force_refresh=force_refresh)

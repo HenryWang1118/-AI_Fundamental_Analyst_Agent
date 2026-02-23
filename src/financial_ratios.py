@@ -2,7 +2,6 @@
 financial_ratios.py
 --------------------------------------
 Financial Ratios Calculation Module for Fundamental Analyst Agent
-Company: Apple Inc. (AAPL)
 Years: 2020–2024
 --------------------------------------
 Functions:
@@ -25,7 +24,7 @@ import pandas as pd
 from .config import Config
 from .data_ingestion import run_ingestion_pipeline
 
-PEER_SYMBOLS = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL", "CRM", "ADBE", "INTC", "CSCO", "SAP"]
+PEER_SYMBOLS = ["MSFT", "AAPL", "GOOGL", "AMZN", "IBM", "ORCL"]
 
 
 # -------------------------------
@@ -66,7 +65,7 @@ def load_financial_statements(symbol=None, verbose=True):
             print(f"⚠️  Missing required files: {', '.join(missing_files)}")
             print(f"🔄 Automatically fetching data from Alpha Vantage...\n")
         
-        # 自动运行数据获取
+     
         success = run_ingestion_pipeline(symbol=symbol.upper(), verbose=verbose, force_refresh=False)
         
         if not success:
@@ -76,7 +75,7 @@ def load_financial_statements(symbol=None, verbose=True):
             )
         
         if verbose:
-            print("")  # 空行分隔
+            print("")  
     
     # Load data
     if verbose:
@@ -242,29 +241,29 @@ def calculate_all_ratios(symbol=None, verbose=True):
     Returns:
         pandas.DataFrame: Combined financial ratios
     """
-    # 加载数据
+  
     income_df, balance_df, cashflow_df = load_financial_statements(symbol, verbose)
     
     if verbose:
         print("\n📊 Calculating financial ratios...")
     
-    # 计算各类比率
+   
     profitability = calculate_profitability_ratios(income_df, balance_df)
     liquidity = calculate_liquidity_ratios(balance_df)
     solvency = calculate_solvency_ratios(balance_df)
     efficiency = calculate_efficiency_ratios(income_df, balance_df)
     cashflow = calculate_cashflow_ratios(income_df, cashflow_df)
     
-    # 合并所有比率
+  
     all_ratios = profitability.merge(liquidity, on='year') \
                               .merge(solvency, on='year') \
                               .merge(efficiency, on='year') \
                               .merge(cashflow, on='year')
 
-    # 增长率
+    
     all_ratios = add_growth_rates(all_ratios)
 
-    # 四舍五入
+   
     numeric_cols = all_ratios.select_dtypes(include=['float64', 'float32', 'int64', 'int32']).columns
     all_ratios[numeric_cols] = all_ratios[numeric_cols].round(2)
     
